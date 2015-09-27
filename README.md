@@ -1,1 +1,1 @@
-# careerbuilderacademy.github.io
+careerbuilderacademy.com
